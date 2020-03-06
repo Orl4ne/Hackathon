@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyVersion>2003.6.2.1349</AssemblyVersion>
+    <FileVersion>2003.6.2.1349</FileVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Hackthon.Common\Hackthon.Common.csproj" />
+  </ItemGroup>
+
+</Project>
